@@ -1,12 +1,12 @@
 // Configuration
 
 class Config { 
-    public port = 3000; 
+    public port = 3001; 
     // mysql database
     public mySQLhost = "localhost";
     public mySQLUser = "root";
     public mySQLPassword = "12345678";
-    public mySQLdb = "something";
+    public mySQLdb = "my_shopping";
     //another database
 }
 

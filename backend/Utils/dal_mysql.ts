@@ -1,6 +1,4 @@
 //DAL -> Data Abstract Layer
-//to to install mysql -> npm install mysql
-
 import mysql from "mysql";
 import config from "./config";
 
